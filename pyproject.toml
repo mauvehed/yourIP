@@ -15,7 +15,7 @@ python = "^3.10"
 Flask = "3.0.2"
 gunicorn = "^21.2.0"
 markupsafe = "^2.1.5"
-poetry-plugin-export = "^1.6.0"
+poetry-plugin-export = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
 
