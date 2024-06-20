@@ -37,7 +37,7 @@ jobs:
       run: poetry export --without-hashes --with dev -f requirements.txt --output dev-requirements.txt
 
     - name: Create GitHub Release
-      uses: softprops/action-gh-release@v2.0.5
+      uses: softprops/action-gh-release@v2.0.6
       with:
         generate_release_notes: true
       env:
