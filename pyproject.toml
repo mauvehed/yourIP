@@ -20,7 +20,7 @@ markupsafe = "^2.1.5"
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.2.2"
 coverage = "^7.5.3"
-mypy = "^1.10.0"
+mypy = "^1.10.1"
 poetry-plugin-export = "^1.8.0"
 
 [build-system]
